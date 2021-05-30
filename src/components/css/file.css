@@ -1,0 +1,27 @@
+.tableContainer{
+    background-color:white ;
+    margin-top: 60px;
+    width: 380px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 4px;
+    box-shadow: inset #3434 0 0px 0px, #3434 0 15px 8px, #3434 12px 15px 8px;
+    border: 15px solid #3434;
+    transition-duration: 0.6s;
+    margin-right: 15px;
+}
+
+table{
+    width: 100%;
+    text-align: center;  
+}
+
+thead{
+    color: darkslateblue;
+    font-family: cursive;
+}
+
+td{
+    color: rgb(72, 61, 139);
+    border-bottom: 1px dotted;
+    padding: 5px;
+}
